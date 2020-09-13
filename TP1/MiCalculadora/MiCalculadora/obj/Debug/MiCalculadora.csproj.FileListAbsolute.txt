@@ -1,0 +1,52 @@
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\CarlosArgibay\Documents\Study\programacionDos\TP's\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.MiCalculadora.resources
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.MiCalculadora.resources
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\CarlosArgibay\Desktop\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.MiCalculadora.resources
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\tp_laboratorio_2-master\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.MiCalculadora.resources
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\argib\OneDrive\Documents\Programacion2\Repos Primer Cuatri\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
